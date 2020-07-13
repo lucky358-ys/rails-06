@@ -1,0 +1,15 @@
+current directory: /Users/yutasuzuki/Desktop/ransack_sample_01/vandor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/yutasuzuki/.rbenv/versions/2.6.6/bin/ruby -I /Users/yutasuzuki/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20200713-51118-mtabmi.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yutasuzuki/Desktop/ransack_sample_01/vandor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/yutasuzuki/Desktop/ransack_sample_01/vandor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/yutasuzuki/Desktop/ransack_sample_01/vandor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20200713-51118-116tsw0/skiptrace/internal
